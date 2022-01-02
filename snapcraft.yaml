@@ -42,6 +42,7 @@ parts:
       - libglu1-mesa
       - libglx0
       - libpulse0
+      - libopengl0
     build-packages:
       - g++
       - gcc
